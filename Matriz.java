@@ -29,7 +29,7 @@ public class Matriz {
         menor++;
         }
         }
-        JOptionPane.showMessageDialog(null,"O número de Atletas com alturama menor de 178 é "+ menor);
+        JOptionPane.showMessageDialog(null,"O número de Atletas gordos com alturama menor de 178 é "+ menor);
         } }
 
         
